@@ -1,0 +1,12 @@
+.richtext-image + p:empty {
+  display: none;
+}
+
+.left + *,
+.right + * {
+  clear:both;
+}
+
+h1 {
+    color: red;
+}
